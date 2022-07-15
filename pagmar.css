@@ -1,0 +1,24 @@
+.video-view {
+    position: relative;
+    width: 800px;
+    height: 1200px;
+  }
+  
+  .video-view .video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .video-view .video-content {
+    position: absolute;
+    bottom: 0px;
+  }
+
+  .myButton{
+    margin-left: 313px;
+    margin-bottom: 20px;
+    width: 170px;
+    height: 170px;
+}
